@@ -1,8 +1,7 @@
+scikit-learn
+mysql
 numpy==1.26.2
 pandas==2.1.4
 streamlit
 pickle
-sklearn
-scikit-learn
 pip==23.3.2
-mysql
