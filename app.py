@@ -2,7 +2,6 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import streamlit.components.v1 as components
-pip install scikit-learn
 import sklearn
 import mysql.connector 
 import pickle
